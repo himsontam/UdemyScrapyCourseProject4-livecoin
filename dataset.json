@@ -1,0 +1,26 @@
+[
+    {
+        "currency pair": "LTC/BTC",
+        "volume(24h)": "18 006.18 LTC"
+    },
+    {
+        "currency pair": "LTC/USD",
+        "volume(24h)": "2 239.14 LTC"
+    },
+    {
+        "currency pair": "LTC/USDT",
+        "volume(24h)": "5.07 LTC"
+    },
+    {
+        "currency pair": "DIG/LTC",
+        "volume(24h)": "0.00 LTC"
+    },
+    {
+        "currency pair": "XSN/LTC",
+        "volume(24h)": "0.00 LTC"
+    },
+    {
+        "currency pair": "RBM/LTC",
+        "volume(24h)": "0.00 LTC"
+    }
+]
