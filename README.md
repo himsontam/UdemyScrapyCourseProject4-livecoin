@@ -11,7 +11,7 @@ Link to scrapy: http://books.toscrape.com/
 - Create New Scrpay Project -------> scrapy startproject livecoin
 
 - You can start your first spider with:
-  - cd imbd
+  - cd livecoin
   - scrapy genspider example example.com
 
 - Create Scrapy spider -------> scrapy genspider coin www.livecoin.net/en
